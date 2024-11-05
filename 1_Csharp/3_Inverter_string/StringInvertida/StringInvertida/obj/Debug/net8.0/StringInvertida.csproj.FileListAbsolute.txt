@@ -1,0 +1,14 @@
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\bin\Debug\net8.0\StringInvertida.exe
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\bin\Debug\net8.0\StringInvertida.deps.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\bin\Debug\net8.0\StringInvertida.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\bin\Debug\net8.0\StringInvertida.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\bin\Debug\net8.0\StringInvertida.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\refint\StringInvertida.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\StringInvertida.genruntimeconfig.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\3_Inverter_string\StringInvertida\StringInvertida\obj\Debug\net8.0\ref\StringInvertida.dll

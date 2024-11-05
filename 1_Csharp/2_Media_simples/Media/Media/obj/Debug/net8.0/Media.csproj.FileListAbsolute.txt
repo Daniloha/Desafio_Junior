@@ -1,0 +1,14 @@
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\bin\Debug\net8.0\Media.exe
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\bin\Debug\net8.0\Media.deps.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\bin\Debug\net8.0\Media.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\bin\Debug\net8.0\Media.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\bin\Debug\net8.0\Media.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\refint\Media.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\Media.genruntimeconfig.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\2_Media_simples\Media\Media\obj\Debug\net8.0\ref\Media.dll

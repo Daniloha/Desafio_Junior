@@ -1,0 +1,14 @@
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\bin\Debug\net8.0\ListaOrdenada.exe
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\bin\Debug\net8.0\ListaOrdenada.deps.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\bin\Debug\net8.0\ListaOrdenada.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\bin\Debug\net8.0\ListaOrdenada.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\bin\Debug\net8.0\ListaOrdenada.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\refint\ListaOrdenada.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ListaOrdenada.genruntimeconfig.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\5_Lista_ordenada\ListaOrdenada\ListaOrdenada\obj\Debug\net8.0\ref\ListaOrdenada.dll

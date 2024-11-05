@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Desafios\\Prova\\DesafioJunior\\1_Par_ou_impar\\ParOuImpar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3459B174-180C-48EF-8491-14B7C5A34CD0}|ParOuImpar\\ParOuImpar.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\desafios\\prova\\desafiojunior\\1_par_ou_impar\\parouimpar\\parouimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3459B174-180C-48EF-8491-14B7C5A34CD0}|ParOuImpar\\ParOuImpar.csproj|solutionrelative:parouimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Desafios\\Prova\\DesafioJunior\\1_Par_ou_impar\\ParOuImpar\\ParOuImpar\\Program.cs",
+              "RelativeDocumentMoniker": "ParOuImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Desafios\\Prova\\DesafioJunior\\1_Par_ou_impar\\ParOuImpar\\ParOuImpar\\Program.cs",
+              "RelativeToolTip": "ParOuImpar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:13:08.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\bin\Debug\net8.0\Carro.exe
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\bin\Debug\net8.0\Carro.deps.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\bin\Debug\net8.0\Carro.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\bin\Debug\net8.0\Carro.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\bin\Debug\net8.0\Carro.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\refint\Carro.dll
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.pdb
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\Carro.genruntimeconfig.cache
+C:\Users\nilo_\OneDrive\Desktop\Projetos\.Net\Desafios\Prova\DesafioJunior\4_Carro\Carro\Carro\obj\Debug\net8.0\ref\Carro.dll
