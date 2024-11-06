@@ -35,13 +35,11 @@ END //                                              -- Delimitador final do bloc
 -- Restaura o delimitador padrão para ;
 ----------------------------------------------------------------------------------------------------------------------------------
 
-DELIMITER ;
-
--- Executa o procedimento.
-
 CALL AddEnviadoColumn();
 
-----------------------------------------------------------------------------------------------------------------------------------
+DELIMITER ;
+
+
 
 SELECT * FROM pedidos;                              -- Exibe todos os registros da tabela pedidos
 
